@@ -1,0 +1,1 @@
+This is a full-stack E-Commerce web application built with HTML, CSS, JavaScript, ReactJS, MongoDB, Node.js, and Express.js. The website allows users to view, add, and remove product details from the platform. It provides a simple interface for managing products, making it easier for admins to maintain an online store.# E-Commerce-Dashboard
