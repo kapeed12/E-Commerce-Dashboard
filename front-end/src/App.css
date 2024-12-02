@@ -1,0 +1,128 @@
+.nav-ul li{
+  display: inline-block;
+  padding: 20px;
+}
+
+.nav-ul {
+  padding: 5px;
+  margin: 0px;
+  background-color: skyblue;
+}
+
+.nav-ul li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 5px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0px;
+  background-color: skyblue;
+  text-align: center;
+  width: 100%;
+}
+
+.register {
+  margin-left: 30%;
+}
+
+.login{
+  margin-left: 30%;
+  margin-top: 100px;
+}
+
+.input-box{
+display: block;
+padding: 7px;
+border: 1px solid green;
+margin: 25px;
+width: 250px;
+}
+
+.submit-button {
+  margin-left: 100px;
+  color: green;
+  background-color: yellow;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.nav-right{
+  text-align: right;
+}
+
+.registration-heading {
+  margin-left: 40px;
+}
+.Login-Heading{
+  margin-left: 100px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.logo {
+  width: 60px;
+  float: left;
+  margin-left: 10px;
+  margin-top: 5px;
+  border-radius: 50%;
+}
+
+.add-product{
+  margin-left: 30%;
+}
+
+.addproduct-heading{
+  margin-left: 50px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.error-message {
+  color: red;
+  margin-left: 25px;
+  /* padding: 0px; */
+  display: block;
+  margin-top: -25px;
+}
+
+.product-list {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.product-list ul li{
+  display: inline-block;
+}
+
+.product-list ul li {
+  display: inline-block;
+  /* margin: 10px; */
+  border: 1px solid skyblue;
+  padding: 5px;
+  width: 200px;
+}
+
+.product-list ul{
+  margin: 0px;
+}
+
+.search-box {
+  width: 400px;
+  margin: 15px;
+  padding-left: 20px;
+  height: 40px;
+  border: 1px solid skyblue;
+}
